@@ -1,0 +1,8 @@
+org/acme/repository/ReportRepository.class
+org/acme/entity/ReportEntity$NivelGravidade.class
+org/acme/service/ReportService.class
+org/acme/bo/ReportBO.class
+org/acme/entity/ReportEntity.class
+org/acme/controller/ReportController.class
+org/acme/exception/ReportException.class
+org/acme/exception/ReportException$ReportExceptionMapper.class

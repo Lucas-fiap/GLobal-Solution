@@ -1,0 +1,6 @@
+/home/lucas-flima/Área de trabalho/java_api_v3./code-with-quarkus/src/main/java/org/acme/bo/ReportBO.java
+/home/lucas-flima/Área de trabalho/java_api_v3./code-with-quarkus/src/main/java/org/acme/controller/ReportController.java
+/home/lucas-flima/Área de trabalho/java_api_v3./code-with-quarkus/src/main/java/org/acme/entity/ReportEntity.java
+/home/lucas-flima/Área de trabalho/java_api_v3./code-with-quarkus/src/main/java/org/acme/exception/ReportException.java
+/home/lucas-flima/Área de trabalho/java_api_v3./code-with-quarkus/src/main/java/org/acme/repository/ReportRepository.java
+/home/lucas-flima/Área de trabalho/java_api_v3./code-with-quarkus/src/main/java/org/acme/service/ReportService.java
